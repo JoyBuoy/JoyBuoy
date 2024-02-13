@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Akram</h1>
 <h3 align="center">🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Engineering 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Victoria, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 may 2028.</h3>
+<img align="right" alt="coding gif" width=400 src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joybuoy&label=Profile%20views&color=0e75b6&style=flat" alt="joybuoy" /> </p>
 
