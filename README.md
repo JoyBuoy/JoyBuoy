@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Akram</h1>
+<h1 align="center">Hi, I'm Mohammed Akram</h1>
 <h3 align="center">🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Engineering 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Victoria, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 may 2028.</h3>
 
 
